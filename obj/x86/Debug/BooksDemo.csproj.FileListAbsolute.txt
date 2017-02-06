@@ -79,3 +79,6 @@ C:\Users\Owner\Documents\NajelCodeCopy\BooksDemo\obj\x86\Debug\MainWindow.baml
 C:\Users\Owner\Documents\NajelCodeCopy\BooksDemo\obj\x86\Debug\BooksDemo.g.resources
 C:\Users\Owner\Documents\NajelCodeCopy\BooksDemo\obj\x86\Debug\Wrox.ProCSharp.WPF.Properties.Resources.resources
 C:\Users\Owner\Documents\NajelCodeCopy\BooksDemo\obj\x86\Debug\BooksDemo.csproj.GenerateResource.Cache
+C:\Users\Owner\Documents\BooksDemo\bin\Debug\BooksDemo.exe.config
+C:\Users\Owner\Documents\BooksDemo\obj\x86\Debug\BooksDemo.exe
+C:\Users\Owner\Documents\BooksDemo\obj\x86\Debug\BooksDemo.pdb
